@@ -1,0 +1,809 @@
+{
+  "title": "Virtual Reality (VR) Market Ecosystem Map",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "2": {
+      "title": "https://medium.com/@mccannatron/virtual-reality-vr-market-ecosystem-map-e6090af2e2af",
+      "id": 5
+    },
+    "12": {
+      "title": "AR",
+      "id": 3,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-0.5": {
+      "title": "VR",
+      "id": 2,
+      "attr": {
+        "position": [
+          224.5093994140625,
+          -57.502838134765625,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Devices",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Oculus VR",
+              "id": 18,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Bought by facebook for $2B",
+                  "id": 19
+                }
+              }
+            },
+            "2": {
+              "title": "HTC Vive ",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "partnered with Valve also creating the Steam VR platform.",
+                  "id": 21
+                }
+              }
+            },
+            "3": {
+              "title": "Samsung’s Gear VR",
+              "id": 22
+            },
+            "4": {
+              "title": "Google Cardboard ",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": " Low end VR system using your smartphone.",
+                  "id": 33
+                }
+              }
+            },
+            "5": {
+              "title": "StarVR \n",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "headset with an ultra-wide field of view",
+                  "id": 32
+                }
+              }
+            },
+            "6": {
+              "title": "Visbox ",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": " Cave VR system (VR within whole room)",
+                  "id": 30
+                }
+              }
+            },
+            "7": {
+              "title": "Fove \n",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "developing an eye tracking virtual reality headset — Raised an unreported amount, announced on June 25, 2015",
+                  "id": 29
+                }
+              }
+            },
+            "8": {
+              "title": "Sulon Technologies",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "- combines both VR and AR in one device- No funding reported yet, won top heads up display in CES.",
+                  "id": 28
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Controllers",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Virtuix Omni ",
+              "id": 34,
+              "ideas": {
+                "1": {
+                  "title": " Treadmill for VR, used with Oculus — Raised $7M, announced on December 10th, 2014",
+                  "id": 46
+                }
+              }
+            },
+            "2": {
+              "title": "Nod Labs \n",
+              "id": 35,
+              "ideas": {
+                "1": {
+                  "title": " controller and tracking device for VR — $16M announced on June 17, 2015",
+                  "id": 47
+                }
+              }
+            },
+            "3": {
+              "title": "virZOOM \n",
+              "id": 36,
+              "ideas": {
+                "1": {
+                  "title": " turns a stationary bike into VR controller — Raised $1.83M announced on April 16, 2015",
+                  "id": 48
+                }
+              }
+            },
+            "4": {
+              "title": "Leap Motion \n",
+              "id": 37,
+              "ideas": {
+                "1": {
+                  "title": " motion control for VR — Raised $44M, announced on January 3, 2013",
+                  "id": 49
+                }
+              }
+            },
+            "5": {
+              "title": "Oculus Touch \n\n",
+              "id": 38,
+              "ideas": {
+                "1": {
+                  "title": " Made by Oculus",
+                  "id": 51
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Sixense ",
+              "id": 39,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": " wireless motion tracking controller — Raised $600K on Kickstarter",
+                  "id": 52
+                }
+              }
+            },
+            "7": {
+              "title": "Valve Controllers ",
+              "id": 40,
+              "ideas": {
+                "1": {
+                  "title": " Made by Valve for the HTC Vive",
+                  "id": 53
+                }
+              }
+            },
+            "8": {
+              "title": "Cyberith ",
+              "id": 41,
+              "ideas": {
+                "1": {
+                  "title": "VR controller that lets you run, jump, rotate, and crouch — no funding reported yet.",
+                  "id": 54
+                }
+              }
+            },
+            "9": {
+              "title": "Tactical Haptics",
+              "id": 42,
+              "ideas": {
+                "1": {
+                  "title": " produces the Reactive Grip Motion Controller- no funding reported yet.",
+                  "id": 55
+                }
+              }
+            },
+            "10": {
+              "title": "ControlVR \n",
+              "id": 43,
+              "ideas": {
+                "1": {
+                  "title": " Lets you control using your hands and motion instead of keyboard — Raised $400K on Kickstarter, announced on July 5, 2014",
+                  "id": 56
+                }
+              }
+            },
+            "11": {
+              "title": "Pebbles Interfaces",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "Develops hand-tracking technologies — Raised $11.5M, Announced on August 1st, 2013. Recently bought by Oculus.",
+                  "id": 57,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Cameras / 3D Mapping",
+          "id": 11,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Jaunt VR ",
+              "id": 59,
+              "ideas": {
+                "1": {
+                  "title": "professional grade camera system for capturing VR experiences — Raised $35M, announced on August 21st, 2014",
+                  "id": 60
+                }
+              }
+            },
+            "2": {
+              "title": "Otoy ",
+              "id": 61,
+              "ideas": {
+                "1": {
+                  "title": "\n Full pipeline for creating, rendering, and streaming 3D environments. \nAmount raised unreported from Yuri Milner and Autodesk - advisors \ninclude Eric Schmidt, Ari Emanuel, and more",
+                  "id": 62
+                }
+              }
+            },
+            "3": {
+              "title": "Structure.io ",
+              "id": 63,
+              "ideas": {
+                "1": {
+                  "title": "capture the 3D world via smartphone — Raised $8M, announced on October 20th, 2013",
+                  "id": 64
+                }
+              }
+            },
+            "4": {
+              "title": "hover.to ",
+              "id": 65,
+              "ideas": {
+                "1": {
+                  "title": "create 3D models from your smartphone — Raised $12.7M announced on August 7, 2014",
+                  "id": 66
+                }
+              }
+            },
+            "5": {
+              "title": "Kolor ",
+              "id": 67,
+              "ideas": {
+                "1": {
+                  "title": "Create 3D words from 2D images and videos — Bought by GoPro",
+                  "id": 68
+                }
+              }
+            },
+            "6": {
+              "title": "VideoStitch ",
+              "id": 69,
+              "ideas": {
+                "1": {
+                  "title": "VideoStitch develops video stitching software to create Live Virtual Reality Video content. — Raised $2.25M seed",
+                  "id": 70
+                }
+              }
+            },
+            "7": {
+              "title": "Matterport ",
+              "id": 71,
+              "ideas": {
+                "1": {
+                  "title": "Reconstruct real world spaces in VR — Raised $58.3M, announced on June 25, 2015",
+                  "id": 72
+                }
+              }
+            },
+            "8": {
+              "title": "Panorics ",
+              "id": 73,
+              "ideas": {
+                "1": {
+                  "title": "develops fully immersive 360-degree video technology and products — Raised an unreported amount of funding.",
+                  "id": 74
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Developer platforms",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Unity ",
+              "id": 75,
+              "ideas": {
+                "1": {
+                  "title": "Development platform, supporting VR development.",
+                  "id": 76
+                }
+              }
+            },
+            "2": {
+              "title": "Unreal Engine ",
+              "id": 77,
+              "ideas": {
+                "1": {
+                  "title": "Game development platform, supporting VR",
+                  "id": 78
+                }
+              }
+            },
+            "3": {
+              "title": "WorldViz",
+              "id": 79,
+              "ideas": {
+                "1": {
+                  "title": "Produces Vizard VR toolkit — Raised $3.5M announced on April 14th, 2015",
+                  "id": 80
+                }
+              }
+            },
+            "4": {
+              "title": "GameWorks VR ",
+              "id": 81,
+              "ideas": {
+                "1": {
+                  "title": "Developer platform by NVIDIA",
+                  "id": 82
+                }
+              }
+            },
+            "5": {
+              "title": "OSVR ",
+              "id": 83,
+              "ideas": {
+                "1": {
+                  "title": "open sourced hardware and software platform for VR",
+                  "id": 84
+                }
+              }
+            },
+            "6": {
+              "title": "High Fidelity \n",
+              "id": 85,
+              "ideas": {
+                "1": {
+                  "title": "Open sourced software for deploying VR spaces — Raised $16M announced \non February 11, 2015 (founded by Philip Rosedale who started Second \nLife)",
+                  "id": 86
+                }
+              }
+            },
+            "7": {
+              "title": "WebVR",
+              "id": 87,
+              "ideas": {
+                "1": {
+                  "title": "WebVR is an experimental Javascript API that provides access to Virtual Reality devices, such as the Oculus Rift or Google Cardboard, in your browser.",
+                  "id": 88
+                },
+                "2": {
+                  "title": "WebVR Starter kit https://github.com/povdocs/webvr-starter-kit",
+                  "id": 162
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Content (Producing VR experiences/games)",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "Game studios developing games for VR ",
+              "id": 89,
+              "ideas": {
+                "1": {
+                  "title": "Insomniac Games,",
+                  "id": 90
+                },
+                "2": {
+                  "title": "Ubisoft",
+                  "id": 91
+                },
+                "3": {
+                  "title": "CCP",
+                  "id": 92
+                },
+                "4": {
+                  "title": "Gunfire games",
+                  "id": 93
+                },
+                "5": {
+                  "title": "4A Games",
+                  "id": 94
+                },
+                "6": {
+                  "title": "Carbon Games",
+                  "id": 95
+                },
+                "7": {
+                  "title": "Climax",
+                  "id": 96
+                },
+                "8": {
+                  "title": "Harmonix",
+                  "id": 97
+                },
+                "9": {
+                  "title": "High Voltage Software,",
+                  "id": 98
+                },
+                "10": {
+                  "title": "Ready at Dawn,\n",
+                  "id": 99
+                },
+                "11": {
+                  "title": "Otherworld Interactive",
+                  "id": 100
+                },
+                "12": {
+                  "title": "Square Enix,",
+                  "id": 101
+                },
+                "13": {
+                  "title": "Thotwise",
+                  "id": 102
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Reload Studios ",
+              "id": 103,
+              "ideas": {
+                "1": {
+                  "title": "is an independent game studio developing VR games — $2M on June 3, 2015",
+                  "id": 104
+                }
+              }
+            },
+            "3": {
+              "title": "nDreams ",
+              "id": 105,
+              "ideas": {
+                "1": {
+                  "title": "Game developer specializing in VR — Raised $2.75M, announced on January 19th, 2015",
+                  "id": 106
+                }
+              }
+            },
+            "4": {
+              "title": "Visionary VR ",
+              "id": 107,
+              "ideas": {
+                "1": {
+                  "title": "a technology and content development studio — Raised $350K announced on March 4th, 2015",
+                  "id": 108
+                }
+              }
+            },
+            "5": {
+              "title": "NextVR\n",
+              "id": 109,
+              "ideas": {
+                "1": {
+                  "title": "captures and delivers live and on-demand virtual reality experiences \n(concerts, movies, sports) — Raised $5M, announced on September 9th, \n2014",
+                  "id": 110
+                }
+              }
+            },
+            "6": {
+              "title": "The VR Company",
+              "id": 111,
+              "ideas": {
+                "1": {
+                  "title": " Studio producing experiences, Steven Spielberg is an advisor — Raised $2.1M announced on May 29, 2015",
+                  "id": 112
+                }
+              }
+            },
+            "7": {
+              "title": "VRse ",
+              "id": 113,
+              "ideas": {
+                "1": {
+                  "title": "Producers of VR content for filmmaking",
+                  "id": 114
+                }
+              }
+            },
+            "8": {
+              "title": "Livelike VR ",
+              "id": 115,
+              "ideas": {
+                "1": {
+                  "title": " VR production focused on live sports content — Raised $200,000 announced on January 27, 2015",
+                  "id": 116
+                }
+              }
+            },
+            "9": {
+              "title": "spaceVR",
+              "id": 117,
+              "ideas": {
+                "1": {
+                  "title": " Experience what space flight feels like (sounds pretty cool).",
+                  "id": 118
+                }
+              }
+            },
+            "10": {
+              "title": "Felix & Paul Studios",
+              "id": 119,
+              "ideas": {
+                "1": {
+                  "title": " developing VR content and content tied to Hollywood blockbusters",
+                  "id": 120
+                }
+              }
+            },
+            "11": {
+              "title": "oculus compatible games on reddit https://www.reddit.com/r/oculus/wiki/compatible_games",
+              "id": 159,
+              "ideas": {}
+            },
+            "12": {
+              "title": "Dolphin VR wiki https://vrwiki.wikispaces.com/Dolphin+VR",
+              "id": 161
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "Social network / Content platforms",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Littlstar ",
+              "id": 121,
+              "ideas": {
+                "1": {
+                  "title": "aggregates virtual reality content — Raised $120K announced on July 9, 2015",
+                  "id": 122
+                }
+              }
+            },
+            "2": {
+              "title": "Wear VR",
+              "id": 123,
+              "ideas": {
+                "1": {
+                  "title": " content platform and app store for VR experiences — Raised $1.5M announced on April 8, 2015",
+                  "id": 124
+                }
+              }
+            },
+            "3": {
+              "title": "AltspaceVR \n",
+              "id": 125,
+              "ideas": {
+                "1": {
+                  "title": "Experience things on the web (shows, concerts, movies) in VR with \nother people — Raised $5.2M announced on September 14th, 2014",
+                  "id": 126
+                }
+              }
+            },
+            "4": {
+              "title": "Vrideo ",
+              "id": 127,
+              "ideas": {
+                "1": {
+                  "title": "Youtube like network for VR experiences — Raised seed round, unreported.",
+                  "id": 128
+                }
+              }
+            },
+            "5": {
+              "title": "EmergentVR ",
+              "id": 129,
+              "ideas": {
+                "1": {
+                  "title": " User generated content of VR — Raised unreported amount on January 21, 2015",
+                  "id": 130
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "7": {
+          "title": "Education",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "Woofbert ",
+              "id": 131,
+              "ideas": {
+                "1": {
+                  "title": "providing art-education through VR — $2.78M on June 1st, 2015",
+                  "id": 132
+                }
+              }
+            },
+            "2": {
+              "title": "zspace ",
+              "id": 133,
+              "ideas": {
+                "1": {
+                  "title": "VR for STEM education — Raised $26.6M announced on March 19th, 2015",
+                  "id": 134
+                }
+              }
+            },
+            "3": {
+              "title": "Discovr ",
+              "id": 135,
+              "ideas": {
+                "1": {
+                  "title": "exploring ancient worlds through VR — No funding reported",
+                  "id": 136
+                }
+              }
+            },
+            "4": {
+              "title": "drashvr ",
+              "id": 137,
+              "ideas": {
+                "1": {
+                  "title": "Produces educational VR apps — No funding reported",
+                  "id": 138
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "8": {
+          "title": "Medical",
+          "id": 16,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Psious ",
+              "id": 139,
+              "ideas": {
+                "1": {
+                  "title": " uses virtual environments to treat anxiety disorders — No reported funding",
+                  "id": 140
+                }
+              }
+            },
+            "2": {
+              "title": "Deepstream VR",
+              "id": 141,
+              "ideas": {
+                "1": {
+                  "title": "using VR games for rehabilitation and treating pain — No reported funding",
+                  "id": 142
+                }
+              }
+            },
+            "3": {
+              "title": "MindMaze ",
+              "id": 143,
+              "ideas": {
+                "1": {
+                  "title": "developing VR experiences for medical recovery (ex. post-stroke) — Raised $8.5 announced on March 4, 2015",
+                  "id": 144
+                }
+              }
+            },
+            "4": {
+              "title": "Vivid Vision",
+              "id": 145,
+              "ideas": {
+                "1": {
+                  "title": " designing games to correct amblyopia (lazy eye) as well as strabismus \n(crossed eye) in virtual reality — Raised $50K, announced on January 21,\n 2014",
+                  "id": 146
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "Business / Enterprise tools",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "insiteVR ",
+              "id": 147,
+              "ideas": {
+                "1": {
+                  "title": "Designer tools within VR — Raised $120,000 from YCombinator, announced on March 15th, 2015",
+                  "id": 148
+                }
+              }
+            },
+            "2": {
+              "title": "IrisVR ",
+              "id": 149,
+              "ideas": {
+                "1": {
+                  "title": "3D modeling tools within VR — Raised $2.53M, announced on July 8, 2015",
+                  "id": 150
+                }
+              }
+            },
+            "3": {
+              "title": "SDK Lab ",
+              "id": 151,
+              "ideas": {
+                "1": {
+                  "title": "Create VR experiences for employee training (mining, drilling, etc) — No reported funding.",
+                  "id": 153
+                }
+              }
+            },
+            "4": {
+              "title": "Inreal Technologies",
+              "id": 155,
+              "ideas": {
+                "1": {
+                  "title": " VR tools for architects — Raised seed round, unreported",
+                  "id": 156
+                }
+              }
+            },
+            "5": {
+              "title": "Autodesk ",
+              "id": 157,
+              "ideas": {
+                "1": {
+                  "title": "Also experimenting with VR tools and experiences for manufacturing, real estate, etc.",
+                  "id": 158
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              56.00732421875,
+              265.4701405749597,
+              1
+            ]
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
